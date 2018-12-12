@@ -1,5 +1,3 @@
-update to protege setting
-
 Copyright (c) 2014, The Board of Trustees of Leland Stanford Junior University
 All rights reserved.
 
